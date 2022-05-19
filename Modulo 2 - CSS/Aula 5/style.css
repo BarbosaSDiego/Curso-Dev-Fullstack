@@ -1,0 +1,17 @@
+body {
+    background: #cfcfcf;
+}
+
+p {
+    color: #222222;
+}
+
+.foto{
+    width:200px;
+    border: 2px solid #FFFFFF; 
+   border-radius: 50%; 
+    /* margin-top: 30px;
+    margin-bottom: 100px
+    e também há o shorthand em sentido horario*/
+    margin: 30px 30px 30px 30px; 
+}

@@ -1,0 +1,21 @@
+body {
+    background-image: url(background.jpg);/* na tag image após url se coloca entre parenteses o nome do arquivo mais o tipo do arquivo desde de que esteja na mesma pagina que o arquivo html ou css */
+
+    background-repeat: no-repeat; /* para que a imagem utilizada como fundo não se repita para completar o fundo todo*/
+
+    /*background-position: 80% 20%; uma das formas de se determinar a posição do background na pagina */
+
+    background-position: center center; /*outra forma de determinar a posição do bakground */
+
+    background-size: cover; /* quando ao inves de repetir para cobrir o fundo, a imagem se expande para cobrir */
+
+    background-attachment: fixed; /*para quando se utilizar o scroll o background não se mova junto*/
+ }
+
+p {
+    color: #222222;
+}
+
+.foto{
+    width:180px;
+}

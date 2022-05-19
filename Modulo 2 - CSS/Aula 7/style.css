@@ -1,0 +1,18 @@
+body {
+    background: #cfcfcf;
+}
+
+p {
+    color: #222222;
+}
+
+.foto{
+    width:200px;
+    border: 2px solid #FFFFFF; 
+    border-radius: 50%; 
+    margin: 30px ; 
+    padding: 6px;
+    /*margem da um espaçamento externo enquant o padding da o espaçamento interno*/
+    box-shadow: 0px 0px 10px #1c1b1b;
+    /*adiciona a imagem sombreamento, tendo como paramentro horizontal, vertical, desfoque e cor*/
+}

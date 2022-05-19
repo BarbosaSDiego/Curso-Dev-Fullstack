@@ -1,0 +1,82 @@
+body {
+    background: #cfcfcf;
+    font-family: 'Raleway', sans-serif;
+    /*quando a fonte tiver 2 nomes colocar entre aspas simples*/
+    color: rgb(34, 34, 34);
+    margin:0;
+}
+
+.container {
+    width: 900px;
+    margin: 0px auto;
+}
+
+.sup{
+  text-align: center;  
+  margin-bottom: 50px;
+}
+
+.foto{
+    width:200px;
+    border: 2px solid #FFFFFF; 
+    border-radius: 50%; 
+    margin: 30px 30px 0;
+    padding: 6px;
+    box-shadow: 0px 0px 10px #1c1b1b;
+}
+
+.social{
+    text-decoration: none;
+}
+
+.logo{
+    width:20px;
+}
+
+.insta{
+    margin:0 0 0 15px;
+}
+
+h1{
+    margin-top:0;
+    margin-bottom: 0;
+    letter-spacing: -1px;/* esta tag diminui(-) ou aumenta(+) o espaçamento entre as letras*/
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;/*tag para atribuir estilo a fonte pelo css*/
+    color:rgb(66, 66, 66);
+    font: weight 120px; /*tag utilizada para aumentar ou diminuir o negrito podendo atribuir valores ou palavras*/
+    letter-spacing: -1px;
+}
+
+h4{
+    margin-bottom:5px;
+}
+
+h5{
+    margin-top:0;
+    margin-bottom:0; 
+    font-weight: 100;
+    font-style: italic;
+}
+
+p{
+    margin-top:0;
+}
+
+.job-list{
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+.footer{
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+    padding: 15px 0px; 
+    text-align: center;
+}

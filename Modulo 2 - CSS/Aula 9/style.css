@@ -1,0 +1,31 @@
+body {
+    background: #cfcfcf;
+    font-family: 'Raleway', sans-serif;
+    /*quando a fonte tiver 2 nomes colocar entre aspas simples*/
+    color: rgb(34, 34, 34)
+}
+
+
+.foto{
+    width:200px;
+    border: 2px solid #FFFFFF; 
+    border-radius: 50%; 
+    margin: 30px ; 
+    padding: 6px;
+    box-shadow: 0px 0px 10px #1c1b1b;
+}
+
+h1{
+    margin-bottom: 0;
+    letter-spacing: -1px;/* esta tag diminui(-) ou aumenta(+) o espaçamento entre as letras*/
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;/*tag para atribuir estilo a fonte pelo css*/
+    color:rgb(66, 66, 66);
+    font: weight 120px; /*tag utilizada para aumentar ou diminuir o negrito podendo atribuir valores ou palavras*/
+    letter-spacing: -1px;
+}

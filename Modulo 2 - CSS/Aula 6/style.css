@@ -1,0 +1,16 @@
+body {
+    background: #cfcfcf;
+}
+
+p {
+    color: #222222;
+}
+
+.foto{
+    width:200px;
+    border: 2px solid #FFFFFF; 
+    border-radius: 50%; 
+    margin: 30px ; 
+    padding: 6px;
+    /*if you open a shorthand with just one valor, gonna apply for all*/
+}

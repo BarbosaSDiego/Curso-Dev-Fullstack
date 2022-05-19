@@ -1,0 +1,20 @@
+body {
+    background: #cfcfcf;
+}
+
+p {
+    color: #222222;
+}
+
+.foto{
+    width:200px;
+    border: 2px solid #FFFFFF; 
+    border-radius: 50%; /*tag utilizada para arredondar as bordas da imagem, pode ser colocada com um valor seguido de px(pixels) ou com porcentagem*/
+    /*
+    border-width: 4px;
+    border-style: double;
+    border-color: black;
+    abrange 3 definiçoes tamanho, estilo e cor da bordar, podendo pegar mais informações no 3wc school, sempre levando em consideração a ordem, primeiro width, style e color, também chamada de shorthand
+    */
+
+}
